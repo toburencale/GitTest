@@ -1,6 +1,10 @@
 fileFormatVersion: 2
 guid: 855e33a5f2ad48a41ae29fadf64fc09a
+<<<<<<< HEAD
 timeCreated: 1525281565
+=======
+timeCreated: 1525281680
+>>>>>>> Sprinting
 licenseType: Free
 DefaultImporter:
   externalObjects: {}
