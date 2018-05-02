@@ -15,6 +15,6 @@ public class Movement : MonoBehaviour {
 	
 	void Update () 
 	{
-		
+        print("Sprinting");
 	}
 }
